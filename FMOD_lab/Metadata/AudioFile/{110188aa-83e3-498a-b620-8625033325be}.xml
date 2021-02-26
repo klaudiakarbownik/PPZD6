@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{110188aa-83e3-498a-b620-8625033325be}">
+		<property name="assetPath">
+			<value>Sci-Fi/PM_FSSF2_BUTTONS_SWITCHES_19.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.36238095238095236</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bf5f52d1-bca6-422f-94ae-3de79f2f3db3}</destination>
+		</relationship>
+	</object>
+</objects>

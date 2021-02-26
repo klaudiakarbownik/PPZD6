@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DataFile" id="{bd6373e8-040f-4004-9a62-75bb839a8597}">
+		<property name="assetPath">
+			<value>Sci-Fi/PM_FSSF2_CYBER_TECH_91.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bf5f52d1-bca6-422f-94ae-3de79f2f3db3}</destination>
+		</relationship>
+	</object>
+</objects>

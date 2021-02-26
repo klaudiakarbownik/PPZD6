@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{62df2598-ed0f-4f1a-8be6-3553f2e87bd0}">
+		<property name="assetPath">
+			<value>Player/Run/Run_13.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.26247165532879818</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bf5f52d1-bca6-422f-94ae-3de79f2f3db3}</destination>
+		</relationship>
+	</object>
+</objects>

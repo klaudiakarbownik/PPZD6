@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DataFile" id="{56909bf3-6d2a-4be7-ac4b-eb0d6054f389}">
+		<property name="assetPath">
+			<value>Sci-Fi/PM_FSSF2_DRONES_6_LOOP.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bf5f52d1-bca6-422f-94ae-3de79f2f3db3}</destination>
+		</relationship>
+	</object>
+</objects>

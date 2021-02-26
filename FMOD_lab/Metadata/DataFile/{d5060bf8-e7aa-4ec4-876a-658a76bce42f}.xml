@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DataFile" id="{d5060bf8-e7aa-4ec4-876a-658a76bce42f}">
+		<property name="assetPath">
+			<value>Sci-Fi/PM_FSSF2_USER_INTERFACE_COMPLEX_55.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bf5f52d1-bca6-422f-94ae-3de79f2f3db3}</destination>
+		</relationship>
+	</object>
+</objects>

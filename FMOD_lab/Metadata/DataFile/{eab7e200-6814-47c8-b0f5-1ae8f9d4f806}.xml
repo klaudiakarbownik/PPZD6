@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DataFile" id="{eab7e200-6814-47c8-b0f5-1ae8f9d4f806}">
+		<property name="assetPath">
+			<value>Sci-Fi/PM_FSSF2_AMBIENCE_ENGINEROOM1_LOOP.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bf5f52d1-bca6-422f-94ae-3de79f2f3db3}</destination>
+		</relationship>
+	</object>
+</objects>

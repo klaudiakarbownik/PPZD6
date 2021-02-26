@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DataFile" id="{9fe48d05-b1b5-490d-9928-0abf92a8fc74}">
+		<property name="assetPath">
+			<value>Sci-Fi/DRONE Data Center Loop.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bf5f52d1-bca6-422f-94ae-3de79f2f3db3}</destination>
+		</relationship>
+	</object>
+</objects>
